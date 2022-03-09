@@ -59,7 +59,7 @@ pip install -e .[pc]
 
 
 
-<H3> A seção abaixo deve ser seguida apenas por usuários com GPU  
+A seção abaixo deve ser seguida apenas por usuários com GPU  
 
 ==========================================================================
 
